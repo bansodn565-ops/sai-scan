@@ -1,0 +1,14 @@
+{
+  "name": "Photo & Scan Studio – Sai Xerox and Stationers",
+  "short_name": "Sai Scan",
+  "description": "Scan, clean up and save photos and documents as PDF.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#E4E7EB",
+  "theme_color": "#0F2547",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
